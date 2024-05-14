@@ -1,0 +1,7 @@
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\OCP\bin\Debug\OCP.exe.config
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\OCP\bin\Debug\OCP.exe
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\OCP\bin\Debug\OCP.pdb
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\OCP\obj\Debug\OCP.csproj.AssemblyReference.cache
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\OCP\obj\Debug\OCP.csproj.CoreCompileInputs.cache
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\OCP\obj\Debug\OCP.exe
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\OCP\obj\Debug\OCP.pdb

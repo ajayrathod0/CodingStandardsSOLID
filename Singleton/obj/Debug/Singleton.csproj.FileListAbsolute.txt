@@ -1,0 +1,7 @@
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\Singleton\obj\Debug\Singleton.csproj.AssemblyReference.cache
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\Singleton\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\Singleton\bin\Debug\Singleton.exe.config
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\Singleton\bin\Debug\Singleton.exe
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\Singleton\bin\Debug\Singleton.pdb
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\Singleton\obj\Debug\Singleton.exe
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\Singleton\obj\Debug\Singleton.pdb

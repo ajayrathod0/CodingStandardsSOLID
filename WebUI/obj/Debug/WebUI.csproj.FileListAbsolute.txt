@@ -1,0 +1,144 @@
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\WebUI\obj\Debug\WebUI.csproj.AssemblyReference.cache
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\WebUI\obj\Debug\WebUI.csproj.CoreCompileInputs.cache
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\WebUI\bin\WebUI.dll.config
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\WebUI\bin\WebUI.dll
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\WebUI\bin\WebUI.pdb
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\WebUI\bin\roslyn\csc.exe
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\WebUI\bin\roslyn\csc.exe.config
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\WebUI\bin\roslyn\csc.rsp
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\WebUI\bin\roslyn\csi.exe
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\WebUI\bin\roslyn\csi.exe.config
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\WebUI\bin\roslyn\csi.rsp
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\WebUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\WebUI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\WebUI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\WebUI\bin\roslyn\System.AppContext.dll
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\WebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\WebUI\bin\roslyn\System.Console.dll
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\WebUI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\WebUI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\WebUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\WebUI\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\WebUI\bin\roslyn\System.IO.Compression.dll
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\WebUI\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\WebUI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\WebUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\WebUI\bin\roslyn\System.Net.Http.dll
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\WebUI\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\WebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\WebUI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\WebUI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\WebUI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\WebUI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\WebUI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\WebUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\WebUI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\WebUI\bin\roslyn\System.ValueTuple.dll
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\WebUI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\WebUI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\WebUI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\WebUI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\WebUI\bin\roslyn\vbc.exe
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\WebUI\bin\roslyn\vbc.exe.config
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\WebUI\bin\roslyn\vbc.rsp
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\WebUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\WebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\WebUI\bin\BusinessAccessLayer.dll
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\WebUI\bin\DataAccessLayer.dll
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\WebUI\bin\Models.dll
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\WebUI\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\WebUI\bin\Unity.Abstractions.dll
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\WebUI\bin\Unity.Container.dll
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\WebUI\bin\BusinessAccessLayer.pdb
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\WebUI\bin\DataAccessLayer.pdb
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\WebUI\bin\DataAccessLayer.dll.config
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\WebUI\bin\Models.pdb
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\WebUI\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\WebUI\bin\Unity.Abstractions.pdb
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\WebUI\bin\Unity.Container.pdb
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\WebUI\obj\Debug\WebUI.csproj.CopyComplete
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\WebUI\obj\Debug\WebUI.dll
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\WebUI\obj\Debug\WebUI.pdb
+C:\B22 Class\C# practice\CodingStandardsSOLID\WebUI\bin\WebUI.dll.config
+C:\B22 Class\C# practice\CodingStandardsSOLID\WebUI\bin\WebUI.dll
+C:\B22 Class\C# practice\CodingStandardsSOLID\WebUI\bin\WebUI.pdb
+C:\B22 Class\C# practice\CodingStandardsSOLID\WebUI\bin\roslyn\csc.exe
+C:\B22 Class\C# practice\CodingStandardsSOLID\WebUI\bin\roslyn\csc.exe.config
+C:\B22 Class\C# practice\CodingStandardsSOLID\WebUI\bin\roslyn\csc.rsp
+C:\B22 Class\C# practice\CodingStandardsSOLID\WebUI\bin\roslyn\csi.exe
+C:\B22 Class\C# practice\CodingStandardsSOLID\WebUI\bin\roslyn\csi.exe.config
+C:\B22 Class\C# practice\CodingStandardsSOLID\WebUI\bin\roslyn\csi.rsp
+C:\B22 Class\C# practice\CodingStandardsSOLID\WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\B22 Class\C# practice\CodingStandardsSOLID\WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\B22 Class\C# practice\CodingStandardsSOLID\WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\B22 Class\C# practice\CodingStandardsSOLID\WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\B22 Class\C# practice\CodingStandardsSOLID\WebUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\B22 Class\C# practice\CodingStandardsSOLID\WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\B22 Class\C# practice\CodingStandardsSOLID\WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\B22 Class\C# practice\CodingStandardsSOLID\WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\B22 Class\C# practice\CodingStandardsSOLID\WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\B22 Class\C# practice\CodingStandardsSOLID\WebUI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\B22 Class\C# practice\CodingStandardsSOLID\WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\B22 Class\C# practice\CodingStandardsSOLID\WebUI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\B22 Class\C# practice\CodingStandardsSOLID\WebUI\bin\roslyn\System.AppContext.dll
+C:\B22 Class\C# practice\CodingStandardsSOLID\WebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\B22 Class\C# practice\CodingStandardsSOLID\WebUI\bin\roslyn\System.Console.dll
+C:\B22 Class\C# practice\CodingStandardsSOLID\WebUI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\B22 Class\C# practice\CodingStandardsSOLID\WebUI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\B22 Class\C# practice\CodingStandardsSOLID\WebUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\B22 Class\C# practice\CodingStandardsSOLID\WebUI\bin\roslyn\System.Globalization.Calendars.dll
+C:\B22 Class\C# practice\CodingStandardsSOLID\WebUI\bin\roslyn\System.IO.Compression.dll
+C:\B22 Class\C# practice\CodingStandardsSOLID\WebUI\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\B22 Class\C# practice\CodingStandardsSOLID\WebUI\bin\roslyn\System.IO.FileSystem.dll
+C:\B22 Class\C# practice\CodingStandardsSOLID\WebUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\B22 Class\C# practice\CodingStandardsSOLID\WebUI\bin\roslyn\System.Net.Http.dll
+C:\B22 Class\C# practice\CodingStandardsSOLID\WebUI\bin\roslyn\System.Net.Sockets.dll
+C:\B22 Class\C# practice\CodingStandardsSOLID\WebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\B22 Class\C# practice\CodingStandardsSOLID\WebUI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\B22 Class\C# practice\CodingStandardsSOLID\WebUI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\B22 Class\C# practice\CodingStandardsSOLID\WebUI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\B22 Class\C# practice\CodingStandardsSOLID\WebUI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\B22 Class\C# practice\CodingStandardsSOLID\WebUI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\B22 Class\C# practice\CodingStandardsSOLID\WebUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\B22 Class\C# practice\CodingStandardsSOLID\WebUI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\B22 Class\C# practice\CodingStandardsSOLID\WebUI\bin\roslyn\System.ValueTuple.dll
+C:\B22 Class\C# practice\CodingStandardsSOLID\WebUI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\B22 Class\C# practice\CodingStandardsSOLID\WebUI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\B22 Class\C# practice\CodingStandardsSOLID\WebUI\bin\roslyn\System.Xml.XPath.dll
+C:\B22 Class\C# practice\CodingStandardsSOLID\WebUI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\B22 Class\C# practice\CodingStandardsSOLID\WebUI\bin\roslyn\vbc.exe
+C:\B22 Class\C# practice\CodingStandardsSOLID\WebUI\bin\roslyn\vbc.exe.config
+C:\B22 Class\C# practice\CodingStandardsSOLID\WebUI\bin\roslyn\vbc.rsp
+C:\B22 Class\C# practice\CodingStandardsSOLID\WebUI\bin\roslyn\VBCSCompiler.exe
+C:\B22 Class\C# practice\CodingStandardsSOLID\WebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\B22 Class\C# practice\CodingStandardsSOLID\WebUI\bin\BusinessAccessLayer.dll
+C:\B22 Class\C# practice\CodingStandardsSOLID\WebUI\bin\DataAccessLayer.dll
+C:\B22 Class\C# practice\CodingStandardsSOLID\WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\B22 Class\C# practice\CodingStandardsSOLID\WebUI\bin\Models.dll
+C:\B22 Class\C# practice\CodingStandardsSOLID\WebUI\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\B22 Class\C# practice\CodingStandardsSOLID\WebUI\bin\Unity.Abstractions.dll
+C:\B22 Class\C# practice\CodingStandardsSOLID\WebUI\bin\Unity.Container.dll
+C:\B22 Class\C# practice\CodingStandardsSOLID\WebUI\bin\BusinessAccessLayer.pdb
+C:\B22 Class\C# practice\CodingStandardsSOLID\WebUI\bin\DataAccessLayer.pdb
+C:\B22 Class\C# practice\CodingStandardsSOLID\WebUI\bin\DataAccessLayer.dll.config
+C:\B22 Class\C# practice\CodingStandardsSOLID\WebUI\bin\Models.pdb
+C:\B22 Class\C# practice\CodingStandardsSOLID\WebUI\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\B22 Class\C# practice\CodingStandardsSOLID\WebUI\bin\Unity.Abstractions.pdb
+C:\B22 Class\C# practice\CodingStandardsSOLID\WebUI\bin\Unity.Container.pdb
+C:\B22 Class\C# practice\CodingStandardsSOLID\WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\B22 Class\C# practice\CodingStandardsSOLID\WebUI\obj\Debug\WebUI.csproj.AssemblyReference.cache
+C:\B22 Class\C# practice\CodingStandardsSOLID\WebUI\obj\Debug\WebUI.csproj.CoreCompileInputs.cache
+C:\B22 Class\C# practice\CodingStandardsSOLID\WebUI\obj\Debug\WebUI.csproj.CopyComplete
+C:\B22 Class\C# practice\CodingStandardsSOLID\WebUI\obj\Debug\WebUI.dll
+C:\B22 Class\C# practice\CodingStandardsSOLID\WebUI\obj\Debug\WebUI.pdb

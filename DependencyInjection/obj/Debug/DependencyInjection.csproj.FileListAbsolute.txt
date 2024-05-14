@@ -1,0 +1,14 @@
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\DependencyInjection\bin\Debug\DependencyInjection.exe.config
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\DependencyInjection\bin\Debug\DependencyInjection.exe
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\DependencyInjection\bin\Debug\DependencyInjection.pdb
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\DependencyInjection\obj\Debug\DependencyInjection.csproj.AssemblyReference.cache
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\DependencyInjection\obj\Debug\DependencyInjection.csproj.CoreCompileInputs.cache
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\DependencyInjection\obj\Debug\DependencyInjection.exe
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\DependencyInjection\obj\Debug\DependencyInjection.pdb
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\DependencyInjection\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\DependencyInjection\bin\Debug\Unity.Abstractions.dll
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\DependencyInjection\bin\Debug\Unity.Container.dll
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\DependencyInjection\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\DependencyInjection\bin\Debug\Unity.Abstractions.pdb
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\DependencyInjection\bin\Debug\Unity.Container.pdb
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\DependencyInjection\obj\Debug\DependencyInjection.csproj.CopyComplete

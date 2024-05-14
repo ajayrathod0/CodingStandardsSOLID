@@ -1,0 +1,6 @@
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\Models\bin\Debug\Models.dll
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\Models\bin\Debug\Models.pdb
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\Models\obj\Debug\Models.csproj.AssemblyReference.cache
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\Models\obj\Debug\Models.dll
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\Models\obj\Debug\Models.pdb

@@ -1,0 +1,24 @@
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.csproj.AssemblyReference.cache
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\BusinessAccessLayer\bin\Debug\BusinessAccessLayer.dll
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\BusinessAccessLayer\bin\Debug\BusinessAccessLayer.pdb
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\BusinessAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\BusinessAccessLayer\bin\Debug\Models.dll
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\BusinessAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\BusinessAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\BusinessAccessLayer\bin\Debug\Models.pdb
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.csproj.CopyComplete
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.dll
+C:\Users\ajayj\OneDrive\Desktop\C# practice\CodingStandardsSOLID\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.pdb
+C:\B22 Class\C# practice\CodingStandardsSOLID\BusinessAccessLayer\bin\Debug\BusinessAccessLayer.dll
+C:\B22 Class\C# practice\CodingStandardsSOLID\BusinessAccessLayer\bin\Debug\BusinessAccessLayer.pdb
+C:\B22 Class\C# practice\CodingStandardsSOLID\BusinessAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\B22 Class\C# practice\CodingStandardsSOLID\BusinessAccessLayer\bin\Debug\Models.dll
+C:\B22 Class\C# practice\CodingStandardsSOLID\BusinessAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\B22 Class\C# practice\CodingStandardsSOLID\BusinessAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\B22 Class\C# practice\CodingStandardsSOLID\BusinessAccessLayer\bin\Debug\Models.pdb
+C:\B22 Class\C# practice\CodingStandardsSOLID\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.csproj.AssemblyReference.cache
+C:\B22 Class\C# practice\CodingStandardsSOLID\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.csproj.CoreCompileInputs.cache
+C:\B22 Class\C# practice\CodingStandardsSOLID\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.csproj.CopyComplete
+C:\B22 Class\C# practice\CodingStandardsSOLID\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.dll
+C:\B22 Class\C# practice\CodingStandardsSOLID\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.pdb
